@@ -16,7 +16,7 @@ English → https://github.com/DaiYu-233/YMCL.Avalonia/tree/main/YMCL.Plugin/Doc
 
 ## 1.5) 视频教程
 
-https://player.bilibili.com/player.html
+https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=BV1vf8eexEMB&cid=500001624703635&p=1
 
 ## 2. Fork 本存储库
 
