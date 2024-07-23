@@ -4,9 +4,7 @@
 
 </div>
 
-## 提交文档
-
- → https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Doc.md
+ 提交文档 → https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Doc.md
 
 ## 插件索引
 
