@@ -18,7 +18,7 @@ English → https://github.com/DaiYu-233/YMCL.Avalonia/tree/main/YMCL.Plugin/Doc
 
 <html>
 <body>
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=BV1vf8eexEMB&cid=500001624703635&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=BV1vf8eexEMB&cid=500001624703635&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </body>
 </html>
 
