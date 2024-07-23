@@ -18,9 +18,7 @@ English → https://github.com/DaiYu-233/YMCL.Avalonia/tree/main/YMCL.Plugin/Doc
 
 https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=BV1vf8eexEMB&cid=500001624703635&p=1
 
-## 2. Fork 本存储库
-
-<img src="https://pic.daiyu.fun/pic/2024/202407231600376.png" style="zoom: 50%;" />
+## 2) Fork 本存储库
 
 ## 3) 上传插件
 
@@ -32,21 +30,9 @@ https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=
 
 ## 4) 添加插件索引
 
-重定向至 `/README.md` 文件, 添加索引 (不懂的仿照 *"原神启动插件"* )
-
-插件名称后面的链接就是 `https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Plugins` 加上 `你新建的文件夹的路径`
+重定向至 `/README.md` 文件, 在文件末尾添加
 
 ```markdown
-## 提交文档
-
-简体中文 → https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Docs/Doc.md
-
-English → https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Docs/Doc_en.md
-
-## 插件索引
-
-- [云原神启动插件](https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Plugins/HLXF/YuanShenLaunch) : 自动启动云原神
-
 - [插件名称](https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Plugins/你的Github用户名/插件名称) : 插件的简介
 ```
 
