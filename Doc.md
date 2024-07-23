@@ -24,16 +24,16 @@ https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=
 
 在 `/Plugins` 新建两个 文件夹 `/Plugins/你的Github用户名/插件名称`
 
-在 `/Plugins/你的Github用户名/插件名称` 上传编译后的二进制文件格式的插件 ( `.dll` )
+在 `/Plugins/插件作者名称/插件名称` 上传编译后的二进制文件格式的插件 ( `.dll` )
 
-在 `/Plugins/你的Github用户名/插件名称` 新建 `README.md` 文件， 内容为插件的介绍、使用说明、插件的第三方下载链接等等
+在 `/Plugins/插件作者名称/插件名称` 新建 `README.md` 文件， 内容为插件的介绍、使用说明、插件的第三方下载链接等等
 
 ## 4) 添加插件索引
 
 重定向至 `/README.md` 文件, 在文件末尾添加
 
 ```markdown
-- [插件名称](https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Plugins/你的Github用户名/插件名称) : 插件的简介
+- [插件名称](https://github.com/DaiYu-233/YMCL.Plugin/tree/main/Plugins/插件作者名称/插件名称) : 插件的简介
 ```
 
 ## 5) 拉取请求
