@@ -22,7 +22,7 @@ https://player.bilibili.com/player.html?isOutside=true&aid=112835065548366&bvid=
 
 ## 3) 上传插件
 
-在 `/Plugins` 新建两个 文件夹 `/Plugins/你的Github用户名/插件名称`
+在 `/Plugins` 新建两个 文件夹 `/Plugins/插件作者名称/插件名称`
 
 在 `/Plugins/插件作者名称/插件名称` 上传编译后的二进制文件格式的插件 ( `.dll` )
 
